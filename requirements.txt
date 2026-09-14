@@ -1,0 +1,6 @@
+# Dependências para o Sistema de Gestão e Cálculo de PBTC
+# Desenvolvido para Python 3.8+
+
+customtkinter>=5.2.0
+darkdetect>=0.8.0
+packaging>=23.0
